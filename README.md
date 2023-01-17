@@ -1,1 +1,1 @@
-# Different-Shapes-Using-Turtle
+here we are using turtle module in python to create different shapes. we are using Turtle class and Screen class to implement the program. we are creating two objects one for the Turtle to perform the action and the other class for Screen to apply the method exitonclick.
